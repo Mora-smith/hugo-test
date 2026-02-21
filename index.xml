@@ -7,7 +7,15 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>Mora Arguo</copyright>
-        <lastBuildDate>Fri, 09 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://Mora-smith.github.io/hugo-test/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 22 Feb 2026 01:31:59 +0800</lastBuildDate><atom:link href="https://Mora-smith.github.io/hugo-test/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>MyFirstBLog</title>
+        <link>https://Mora-smith.github.io/hugo-test/p/myfirstblog/</link>
+        <pubDate>Sun, 22 Feb 2026 01:31:59 +0800</pubDate>
+        
+        <guid>https://Mora-smith.github.io/hugo-test/p/myfirstblog/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>Chinese Test</title>
         <link>https://Mora-smith.github.io/hugo-test/p/test-chinese/</link>
         <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
